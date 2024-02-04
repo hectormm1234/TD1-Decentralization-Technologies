@@ -8,12 +8,12 @@ The user is able to choose his ASCII art output between a list from the library 
 He is also able to choose his personnalized text.
 
 ## Quick Start
-Prerequisites: Ensure Python 3.x is installed.
-Installation: Clone the repository and navigate to the project directory.
+Prerequisites: Ensure Python 3.x and pyfiglet are installed.  
+Installation: Clone the repository and navigate to the project directory.  
 Usage: Run python main.py, follow the instructions in the console.
 
 ## Contributing
-Enhance ASCII Art Styles: Integrate a Python library for varied ASCII art styles.
+Enhance ASCII Art Styles: Integrate a Python library for varied ASCII art styles.  
 Interactive Menu: Add a menu for choosing ASCII art types and custom text input.
-Feedback
+Feedback  
 Open an issue in the repository for suggestions or issues.
