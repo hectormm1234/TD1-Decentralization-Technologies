@@ -4,7 +4,7 @@ This project was created by **Hector Mell Mariolle**.
 The objective is to create a simple console **application to display ASCII art** from the user text input. 
 
 ## Main features
-The user is able to choose his ASCII art output between a list from the library Pyfiglet. 
+The user is able to choose his ASCII art output between a list and from the library Pyfiglet. 
 He is also able to choose his personnalized text.
 
 ## Quick Start
